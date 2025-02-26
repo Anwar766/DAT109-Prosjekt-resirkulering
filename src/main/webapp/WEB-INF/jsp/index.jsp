@@ -9,7 +9,7 @@
         Hallo på do Donald Duck
     </h1>
 
-    <p>paragraf</p>
+    <p>Dette er en paragraf</p>
 </body>
 
 </html>
