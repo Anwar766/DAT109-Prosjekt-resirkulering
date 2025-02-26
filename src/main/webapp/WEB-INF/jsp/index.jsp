@@ -6,7 +6,7 @@
 
 <body>
     <h1>
-        Hallo på do Donald Duck
+        Dette er en overskrift
     </h1>
 
     <p>p</p>
